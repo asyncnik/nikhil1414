@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nikhil1414
+- 👀 I’m interested in ...Web Technologies like angular,Node,JavaScript,Mysql,Elastic Search,python,html,css,jquery and many more..
+- 🌱 I’m currently working as a web developer 
+- 💞️ I’m looking to collaborate on any web application based project which is a based on a good idea and with a lot of learning opportunities
+- 📫 How to reach me ...email: pareeknikhil397@gmail.com
